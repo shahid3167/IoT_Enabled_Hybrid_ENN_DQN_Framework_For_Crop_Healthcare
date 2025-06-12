@@ -31,7 +31,7 @@ Finally, run the subsequent code to obtain a summary of the optimal actions and 
 # System Architecture
 The architecture of the proposed model consists of several functional components. It begins with the Agricultural Field, where monitoring sensors are installed to collect health and environmental data of the crops. This IoT data is gathered and stored in databases, which are later used by the Elman Neural Network (ENN) to assess crop health. The results from the ENN are then fed into the Deep Q-Learning (DQN) model, which determines the optimal actions based on the crop health information provided by the ENN. The final output is utilized by farmers and agricultural technology companies to improve crop healthcare. An overview of the system model is presented in the following figure.
 <p align="center">
-<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/ca8c6adafb0b3b6ca913754e6ebf90237e1122f1/Figures/SystemModel.jpg" width="700" height="500">
+<img src="[https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/ca8c6adafb0b3b6ca913754e6ebf90237e1122f1/Figures/SystemModel.jpg](https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/SystemModel.jpg)" width="700" height="500">
 
 <p align="center">
 System model of the ensemble learning framework highlighting data, feature fusion, and model spaces
