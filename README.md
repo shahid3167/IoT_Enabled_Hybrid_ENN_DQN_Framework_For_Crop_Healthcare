@@ -79,7 +79,7 @@ Area under the curve (AUC) and confusion matrics for different epoches are prese
 Fig. 7. A representation of area under the curve (AUC).
 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/PerformanceWithNoises.jpg" width="1000" height="800">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/ConfusionMatrix.jpg" width="1000" height="800">
 <p align="center">
 Fig. 8. Confusion matrix for different epochs.
 
