@@ -32,7 +32,6 @@ Finally, run the subsequent code to obtain a summary of the optimal actions and 
 The architecture of the proposed model consists of several functional components. It begins with the Agricultural Field, where monitoring sensors are installed to collect health and environmental data of the crops. This IoT data is gathered and stored in databases, which are later used by the Elman Neural Network (ENN) to assess crop health. The results from the ENN are then fed into the Deep Q-Learning (DQN) model, which determines the optimal actions based on the crop health information provided by the ENN. The final output is utilized by farmers and agricultural technology companies to improve crop healthcare. An overview of the system model is presented in the following figure.
 <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/SystemModel.jpg" width="700" height="600">
-
 <p align="center">
   Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
 
@@ -40,7 +39,6 @@ The architecture of the proposed model consists of several functional components
 The extracted dataset is subsequently merged and is characterized as presented in Table 1. The categorical variable "crop health" is the output feature, while the remaining features are input features that collectively determine whether a crop is healthy or unhealthy.
 <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
-
 <p align="center">
 
   # Data Eneginnering
