@@ -60,6 +60,7 @@ Fig. 3. Pearson’s correlation measures highlighting a linear relationship amon
 Fig. 4. A distribution of different features as a function of the crop and fruit, highlighting the mean and median representations.
 
   # Results
+  ## Elman Neural Network Results
   The training and testing loss function (Figure 5 (a)) and the training and testing accuracy (Figure 5 (b)) over a sample of 500 iterations demonstrate that the ENN-DQN effectively understands the underlying patterns in the data, successfully avoiding both overfitting and underfitting issues.
 <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/LossAccuracyPerformance.jpg" width="1000" height="400">
