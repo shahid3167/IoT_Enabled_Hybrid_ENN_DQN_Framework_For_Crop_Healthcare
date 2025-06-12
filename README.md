@@ -68,7 +68,7 @@ Fig. 5. Training and testing performance evaluation of the proposed ENN-DQN. (a)
 
 Following the underfitting and overfitting criteria, the performance of the proposed ENN-DQN is evaluated by incorporating different Gaussian noise ratios in the dataset. The injection of these different noise ratios results in the introduction of different levels of heterogeneity in the dataset. Consequently, a robustness evaluation of accuracy, precision, recall, and F-score with different levels of heterogeneity: no noise (i.e., 0% noise level), low noise (i.e., 30% noise level), medium noise (i.e., 50% noise level), and high noise (i.e., 100% noise level) is presented in Figure 6.
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/PerformanceWithNoises.jpg" width="1000" height="400">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/PerformanceWithNoises.jpg" width="1000" height="600">
 <p align="center">
 Fig. 6. Robustness evaluation of the proposed ENN-DQN model under varying noise ratios: no noise (0%), low noise (30%), medium noise (50%), and high noise (100%) for (a) Accuracy, (b) Precision, (c) Recall, and (d) F-score.
 
