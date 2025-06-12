@@ -55,14 +55,14 @@ Fig. 2. A representation of class balancing through SMOTE analysis.
 Fig. 3. Pearson’s correlation measures highlighting a linear relationship among the features.
 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Features.jpg" width="800" height="500">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Features.jpg" width="1000" height="500">
 <p align="center">
 Fig. 4. A distribution of different features as a function of the crop and fruit, highlighting the mean and median representations.
 
   # Results
   The training and testing loss function (Figure 5 (a)) and the training and testing accuracy (Figure 5 (b)) over a sample of 500 iterations demonstrate that the ENN-DQN effectively understands the underlying patterns in the data, successfully avoiding both overfitting and underfitting issues.
   <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Features.jpg" width="800" height="500">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/LossAccuracyPerformance.jpg" width="1000" height="400">
 <p align="center">
 Fig. 4. A distribution of different features as a function of the crop and fruit, highlighting the mean and median representations.
 © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
