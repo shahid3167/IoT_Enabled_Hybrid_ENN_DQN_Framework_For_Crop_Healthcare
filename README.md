@@ -61,7 +61,13 @@ Fig. 4. A distribution of different features as a function of the crop and fruit
 
   # Results
   The training and testing loss function (Figure 5 (a)) and the training and testing accuracy (Figure 5 (b)) over a sample of 500 iterations demonstrate that the ENN-DQN effectively understands the underlying patterns in the data, successfully avoiding both overfitting and underfitting issues.
-  <p align="center">
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/LossAccuracyPerformance.jpg" width="1000" height="400">
+<p align="center">
+Fig. 5. Training and testing performance evaluation of the proposed ENN-DQN. (a). Training and testing loss function, (b). Training and testing accuracy.
+
+Following the underfitting and overfitting criteria, the performance of the proposed ENN-DQN is evaluated by incorporating different Gaussian noise ratios in the dataset. The injection of these different noise ratios results in the introduction of different levels of heterogeneity in the dataset. Consequently, a robustness evaluation of accuracy, precision, recall, and F-score with different levels of heterogeneity: no noise (i.e., 0% noise level), low noise (i.e., 30% noise level), medium noise (i.e., 50% noise level), and high noise (i.e., 100% noise level) is presented in Figure 6.
+<p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/LossAccuracyPerformance.jpg" width="1000" height="400">
 <p align="center">
 Fig. 5. Training and testing performance evaluation of the proposed ENN-DQN. (a). Training and testing loss function, (b). Training and testing accuracy.
