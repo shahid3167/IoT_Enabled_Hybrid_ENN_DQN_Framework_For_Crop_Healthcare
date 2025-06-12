@@ -87,12 +87,12 @@ Fig. 8. Confusion matrix for different epochs.
   ## Deep Q-Learning Results
   Deep Q-learning perform optimal action based on the rewards. These actions includes **Do Nothing**, **Irregation**, **Fertilize**, **Ventilate**, **Irregation and Fertilize**, **Irregation and Ventilate**, **Fertilize and Pesticide**, **Pesticide or Fungcide**, and **Request for Manual Check**. The rewards and the optimal different actions are presented in Figure 9 and Figure 10.
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/TotalRewards.png" width="1000" height="600">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/TotalRewards.png" width="1000" height="400">
 <p align="center">
 Fig. 9. A representation of the reward function with different moving average.
 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/OptimizedAction.png" width="1000" height="550">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/OptimizedAction.png" width="1000" height="400">
 <p align="center">
 Fig. 10. A representaiton of the different optimal actions.
   
