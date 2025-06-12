@@ -74,7 +74,7 @@ Fig. 6. Robustness evaluation of the proposed ENN-DQN model under varying noise 
 
 Area under the curve (AUC) and confusion matrics for different epoches are presented in Figure 7 and Figure 8. 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/DatasetBlanace.jpg" width="550" height="400">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/AUC.jpg" width="550" height="400">
 <p align="center">
 Fig. 7. A representation of area under the curve (AUC).
 
