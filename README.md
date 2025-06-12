@@ -36,4 +36,11 @@ The architecture of the proposed model consists of several functional components
 <p align="center">
   Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
 
+# Dataset Description
+The extracted dataset is subsequently merged and is characterized as presented in Table 1. The categorical variable "crop health" is the output feature, while the remaining features are input features that collectively determine whether a crop is healthy or unhealthy.
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/SystemModel.jpg" width="700" height="600">
+
+<p align="center">
+
 © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
