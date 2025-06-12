@@ -35,8 +35,12 @@ The architecture of the proposed model consists of several functional components
 <p align="center">
   Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
 
-# Dataset Description
-The extracted dataset is subsequently merged and is characterized as presented in Table 1. The categorical variable "crop health" is the output feature, while the remaining features are input features that collectively determine whether a crop is healthy or unhealthy.
+# Dataset Description and SMOTE Analysis
+The extracted dataset is subsequently merged and is characterized as presented in Table 1. The categorical variable "crop health" is the output feature, while the remaining features are input features that collectively determine whether a crop is healthy or unhealthy. A SMOTE anlysis is performed for class balancing and the results before SMOTE and after SMOTE is presented in Figure 2.
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
+<p align="center">
+
 <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
 <p align="center">
