@@ -84,5 +84,11 @@ Fig. 7. A representation of area under the curve (AUC).
 <p align="center">
 Fig. 8. Confusion matrix for different epochs.
 
+  ## Deep Q-Learning Results
+  Deep Q-learning perform optimal action based on the rewards. These actions includes **Do Nothing**, **Irregation**, **Fertilize**, **Ventilate**, **Irregation and Fertilize**, **Irregation and Ventilate**, **Fertilize and Pesticide**, **Pesticide or Fungcide**, and **Request for Manual Check**. The rewards and the optimal different actions are presented in Figure 9 and Figure 10.
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/ConfusionMatrix.jpg" width="1000" height="800">
+<p align="center">
+Fig. 8. Confusion matrix for different epochs.
   
   © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
