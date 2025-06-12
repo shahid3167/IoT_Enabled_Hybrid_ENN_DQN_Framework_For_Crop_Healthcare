@@ -64,5 +64,6 @@ Fig. 4. A distribution of different features as a function of the crop and fruit
   <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/LossAccuracyPerformance.jpg" width="1000" height="400">
 <p align="center">
-Fig. 4. A distribution of different features as a function of the crop and fruit, highlighting the mean and median representations.
-© 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
+Fig. 5. Training and testing performance evaluation of the proposed ENN-DQN. (a). Training and testing loss function, (b). Training and testing accuracy.
+
+  © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
