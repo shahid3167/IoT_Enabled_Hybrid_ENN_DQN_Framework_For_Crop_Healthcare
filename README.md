@@ -92,7 +92,7 @@ Fig. 8. Confusion matrix for different epochs.
 Fig. 9. A representation of the reward function with different moving average.
 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/TotalRewards.png" width="1000" height="600">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/OptimizedAction.png" width="1000" height="600">
 <p align="center">
 Fig. 10. A representaiton of the different optimal actions.
   
