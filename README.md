@@ -72,4 +72,16 @@ Following the underfitting and overfitting criteria, the performance of the prop
 <p align="center">
 Fig. 6. Robustness evaluation of the proposed ENN-DQN model under varying noise ratios: no noise (0%), low noise (30%), medium noise (50%), and high noise (100%) for (a) Accuracy, (b) Precision, (c) Recall, and (d) F-score.
 
+Area under the curve (AUC) and confusion matrics for different epoches are presented in Figure 7 and Figure 8. 
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/DatasetBlanace.jpg" width="550" height="400">
+<p align="center">
+Fig. 7. A representation of area under the curve (AUC).
+
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/PerformanceWithNoises.jpg" width="1000" height="800">
+<p align="center">
+Fig. 8. Confusion matrix for different epochs.
+
+  
   © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
