@@ -49,7 +49,7 @@ The extracted dataset is subsequently merged and is characterized as presented i
 <p align="center">
 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Features.jpg" width="800" height="600">
 <p align="center">
 
   
