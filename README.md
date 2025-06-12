@@ -31,7 +31,7 @@ Finally, run the subsequent code to obtain a summary of the optimal actions and 
 # System Architecture
 The architecture of the proposed model consists of several functional components. It begins with the Agricultural Field, where monitoring sensors are installed to collect health and environmental data of the crops. This IoT data is gathered and stored in databases, which are later used by the Elman Neural Network (ENN) to assess crop health. The results from the ENN are then fed into the Deep Q-Learning (DQN) model, which determines the optimal actions based on the crop health information provided by the ENN. The final output is utilized by farmers and agricultural technology companies to improve crop healthcare. An overview of the system model is presented in the following figure.
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/SystemModel.jpg" width="600" height="500">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/SystemModel.jpg" width="700" height="500">
 <p align="center">
   Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
 
@@ -45,7 +45,7 @@ The extracted dataset is subsequently merged and is characterized as presented i
   A correlation among the various features (excluding certain types such as object type, date time type, and binary type features) is presented in Figure 2. It highlights a strong correlation between potassium and phosphorus, while there is a weak relation of these two features with nitrogen. Following the feature relationship, a distribution of these features for the crop and fruit with mean and median values is provided in Figure 3. The figure indicates that the nitrogen, phosphorus, potassium, and rainfall are right-skewed
 (positively skewed), while the temperature and pH follow normal distributions. In contrast, humidity has two peaks, thereby representing a bimodal distribution.
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/CorelationMatrix.jpg" width="700" height="600">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/CorelationMatrix.jpg" width="600" height="400">
 <p align="center">
 
 <p align="center">
