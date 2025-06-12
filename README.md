@@ -42,7 +42,15 @@ The extracted dataset is subsequently merged and is characterized as presented i
 <p align="center">
 
   # Data Eneginnering
-  A correlation among the various features (excluding certain types such as object type, date time type, and binary type features) is presented in Figure 2. It highlights a strong correlation between potassium and phosphorus, while there is a weak relation of these two features with nitrogen. Following the feature relationship, a distribution of these features for the crop and fruit with mean and median values is provided in Figure 4. The figure indicates that the nitrogen, phosphorus, potassium, and rainfall are right-skewed
+  A correlation among the various features (excluding certain types such as object type, date time type, and binary type features) is presented in Figure 2. It highlights a strong correlation between potassium and phosphorus, while there is a weak relation of these two features with nitrogen. Following the feature relationship, a distribution of these features for the crop and fruit with mean and median values is provided in Figure 3. The figure indicates that the nitrogen, phosphorus, potassium, and rainfall are right-skewed
 (positively skewed), while the temperature and pH follow normal distributions. In contrast, humidity has two peaks, thereby representing a bimodal distribution.
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
+<p align="center">
+
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table%201.jpg" width="450" height="200">
+<p align="center">
+
   
 © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
