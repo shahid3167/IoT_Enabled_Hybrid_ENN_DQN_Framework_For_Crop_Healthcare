@@ -115,9 +115,9 @@ Fig. 11. A representation of the statistical analysis.
 Fig. 11. Box plot for validating statistical analysis.
 
 # Contact details
-## Dr. Shahid Hussain (shahid.hussain@atu.ie)
+### Dr. Shahid Hussain (shahid.hussain@atu.ie)
 ### Affiliation:
 **Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
 
-#Copyright
+# Copyright
 © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled **An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**, which is currently under review in the **Internet of Things journal (Elsevier)**. This code is provided for educational purposes only. Any commercial use, reproduction, or distribution of this code without permission is prohibited.
