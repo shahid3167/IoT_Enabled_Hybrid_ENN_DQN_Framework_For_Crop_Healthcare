@@ -109,11 +109,15 @@ A statistical analysis with a 95% confidence interval is performed for a sample 
 <p align="center">
 Fig. 11. A representation of the statistical analysis.
 
-
-
 <p align="center">
 <img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Average-Analysis-BoxPlot.jpg" width="1000" height="600">
 <p align="center">
 Fig. 11. Box plot for validating statistical analysis.
-  
-  © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
+
+# Contact details
+## Dr. Shahid Hussain (shahid.hussain@atu.ie)
+### Affiliation:
+**Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
+
+#Copyright
+© 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled **An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**, which is currently under review in the **Internet of Things journal (Elsevier)**. This code is provided for educational purposes only. Any commercial use, reproduction, or distribution of this code without permission is prohibited.
