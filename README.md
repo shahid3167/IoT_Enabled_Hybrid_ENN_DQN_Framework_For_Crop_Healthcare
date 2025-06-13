@@ -4,7 +4,9 @@ The repository includes the following:
 
    **Datasets:** Both individual and combined datasets, which are essential for training and evaluating the proposed model.
    
-   **Code:** The repository provides three Jupyter Notebook files (.ipynb) that cover the implementation of the ENN, DQN, and the hybrid approach.
+   **Code:** This folder provides three Jupyter Notebook files (.ipynb) that cover the implementation of the ENN, DQN, and the hybrid approach.
+
+   **Figures:** This folder provides most of the results presented in the paper. 
 
 A detailed description of the working mechanism, methodology, and results of the research is included within the repository files.
 
