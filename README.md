@@ -99,7 +99,7 @@ Fig. 10. A representaiton of the different optimal actions.
   ## Statistical Results
 A statistical analysis with a 95% confidence interval is performed for a sample size of 30 epochs to verify the quantitative analysis. A detailed comparison of the statistical analysis for the various methods is presented in Table 4. Following the importance of the pattern, we further validated the statistical analysis by computing the average of the performance metrics with a 95% CI for the various methods, as presented in Figure 11 and 12. 
 <p align="center">
-<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table4.png" width="1000" height="600">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/Table4.png" width="900" height="600">
 <p align="center">
 
 <p align="center">
