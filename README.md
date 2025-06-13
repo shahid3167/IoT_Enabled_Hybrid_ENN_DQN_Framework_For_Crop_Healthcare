@@ -98,5 +98,16 @@ Fig. 10. A representaiton of the different optimal actions.
 
   ## Statistical Results
 A statistical analysis with a 95% confidence interval is performed for a sample size of 30 epochs to verify the quantitative analysis. A detailed comparison of the statistical analysis for the various methods is presented in Table 4. Following the importance of the pattern, we further validated the statistical analysis by computing the average of the performance metrics with a 95% CI for the various methods, as presented in Figure 11 and 12. 
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/ConfusionMatrix.jpg" width="1000" height="800">
+<p align="center">
+
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/OptimizedAction.png" width="1000" height="400">
+<p align="center">
+
+<p align="center">
+<img src="https://github.com/shahid3167/IoT_Enabled_Hybrid_ENN_DQN_Framework_For_Crop_Healthcare/blob/main/Figures/ConfusionMatrix.jpg" width="1000" height="800">
+<p align="center">
   
   © 2025 **Atlantic Technological University, Ireland**. All rights reserved. This code is part of the paper titled "**An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector**," which is currently under review in the **Internet of Things journal (Elsevier)**. Unauthorized use, reproduction, or distribution of this code without permission is prohibited.
