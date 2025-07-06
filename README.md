@@ -122,5 +122,6 @@ Fig. 11. Box plot for validating statistical analysis.
 ### Affiliation:
 **Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
 
-# Paper: This code is related to the following paper, which can be cited as:
+# Paper: 
+### This code is related to the following paper, which can be cited as:
 M. Alazmi et al., "An IoT-Enabled Hybrid Deep Q-Learning and Elman Neural Network Framework for Proactive Crop Healthcare in the Agriculture Sector," Internet of Things, 2025.
